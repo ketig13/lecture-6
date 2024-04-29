@@ -1,0 +1,52 @@
+header{
+	display: inline-block;
+}
+
+nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+p{
+	display: inline-block;
+	margin-left: 60px;
+}
+
+
+img{
+	vertical-align: middle;
+	margin-left: 60px;
+}
+h1{
+	margin-left: 60px;
+}
+
+.card{
+	display: inline-block;
+	position: relative;
+
+}
+.card img{
+	height: 186px;
+	width: 362px;
+}
+.card p{
+	color: white;
+	position: absolute;
+	top: 0px;
+	left: 20px;
+}
+
+.container{
+	height: 171px;
+	width: 362px;
+	background: lightgrey;
+	border-radius: lightgrey;
+	margin-left: 60px;
+}
+.container p{
+	font-weight: 700;
+	margin-left: 30px;
+	margin-top: 50px;
+	display: inline-block;
+}
+
